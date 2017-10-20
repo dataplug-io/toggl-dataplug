@@ -1,0 +1,47 @@
+{
+  "name": "@dataplug/toggl-dataplug",
+  "version": "0.0.0",
+  "description": "Toggl dataplug (by Dataplug.io)",
+  "main": "lib/index.js",
+  "bin": {
+    "toggl-dataplug": "bin/cli.js"
+  },
+  "scripts": {
+    "jsdoc": "jsdoc --destination ./docs --recurse ./lib ./bin --verbose",
+    "test": "mocha",
+    "coverage": "nyc --reporter=html --reporter=text mocha",
+    "preversion": "npm test",
+    "postversion": "git push && git push --tags"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dataplug-io/toggl-dataplug.git"
+  },
+  "keywords": [
+    "toggl",
+    "data",
+    "export",
+    "import"
+  ],
+  "author": "",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dataplug-io/toggl-dataplug/issues"
+  },
+  "homepage": "https://github.com/dataplug-io/toggl-dataplug#readme",
+  "dependencies": {
+    "@dataplug/dataplug": "^0.4.1",
+    "@dataplug/dataplug-cli": "^0.4.0",
+    "bluebird": "^3.5.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "jsdoc": "^3.5.5",
+    "mocha": "^4.0.1",
+    "nyc": "^11.2.1",
+    "standard": "^10.0.3"
+  }
+}
