@@ -8,9 +8,10 @@
   },
   "scripts": {
     "jsdoc": "jsdoc --destination ./docs --recurse ./lib ./bin --verbose",
+    "lint": "standard",
     "test": "mocha",
     "coverage": "nyc --reporter=html --reporter=text mocha",
-    "preversion": "npm test",
+    "preversion": "npm run lint && npm run test",
     "postversion": "git push && git push --tags"
   },
   "engines": {
@@ -33,8 +34,9 @@
   },
   "homepage": "https://github.com/dataplug-io/toggl-dataplug#readme",
   "dependencies": {
-    "@dataplug/dataplug": "^0.6.1",
-    "@dataplug/dataplug-cli": "^0.7.1",
+    "@dataplug/dataplug": "^0.8.1",
+    "@dataplug/dataplug-cli": "^0.9.0",
+    "@dataplug/dataplug-json": "^0.2.0",
     "bluebird": "^3.5.1",
     "moment": "^2.19.1"
   },
@@ -42,7 +44,7 @@
     "chai": "^4.1.2",
     "jsdoc": "^3.5.5",
     "mocha": "^4.0.1",
-    "nyc": "^11.2.1",
+    "nyc": "^11.3.0",
     "standard": "^10.0.3"
   }
 }
