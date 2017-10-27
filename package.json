@@ -35,8 +35,8 @@
   },
   "homepage": "https://github.com/dataplug-io/toggl-dataplug#readme",
   "dependencies": {
-    "@dataplug/dataplug": "^0.11.0",
-    "@dataplug/dataplug-cli": "^0.9.3",
+    "@dataplug/dataplug": "^0.12.0",
+    "@dataplug/dataplug-cli": "^0.11.0",
     "@dataplug/dataplug-http": "^0.3.0",
     "@dataplug/dataplug-json": "^0.6.0",
     "bluebird": "^3.5.1",
