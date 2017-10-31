@@ -12,11 +12,10 @@ A dataplug to work with data from [Toggl](https://toggl.com) using its [API](htt
 ## Supported
 
 * [Detailed Reports](https://github.com/toggl/toggl_api_docs/blob/master/reports/detailed.md)
-
-## TODO for next iteration
-
 * [Projects](https://github.com/toggl/toggl_api_docs/blob/master/chapters/projects.md)
 * [Clients](https://github.com/toggl/toggl_api_docs/blob/master/chapters/clients.md)
+
+## TODO for next iteration
 
 ## TODO (backlog)
 
