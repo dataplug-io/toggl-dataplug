@@ -37,7 +37,7 @@
   "dependencies": {
     "@dataplug/dataplug": "^0.32.0",
     "@dataplug/dataplug-cli": "^0.31.0",
-    "@dataplug/dataplug-http": "^0.7.0",
+    "@dataplug/dataplug-http": "^0.8.0",
     "@dataplug/dataplug-json": "^0.7.0",
     "bluebird": "^3.5.1",
     "moment": "^2.19.1",
