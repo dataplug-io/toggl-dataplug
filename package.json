@@ -1,6 +1,6 @@
 {
   "name": "@dataplug/toggl-dataplug",
-  "version": "0.30.0",
+  "version": "0.31.0",
   "description": "Toggl dataplug (by Dataplug.io)",
   "main": "lib/index.js",
   "bin": {
