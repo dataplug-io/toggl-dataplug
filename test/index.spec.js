@@ -7,13 +7,13 @@ const togglDataplug = require('../lib')
 describe('toggl-dataplug', () => {
   dataplugTestsuite
     .forCollection('clients', togglDataplug.clients)
-    .use()
+    .execute()
 
   dataplugTestsuite
     .forCollection('detailed-reports', togglDataplug.detailedReports)
-    .use()
+    .execute()
 
   dataplugTestsuite
     .forCollection('projects', togglDataplug.projects)
-    .use()
+    .execute()
 })
