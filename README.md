@@ -13,17 +13,17 @@ A dataplug to work with data from [Toggl](https://toggl.com) using its [API](htt
 ## Supported
 
 * [Detailed Reports](https://github.com/toggl/toggl_api_docs/blob/master/reports/detailed.md)
-* [Projects](https://github.com/toggl/toggl_api_docs/blob/master/chapters/projects.md)
-* [Clients](https://github.com/toggl/toggl_api_docs/blob/master/chapters/clients.md)
+* [Workspace Projects](https://github.com/toggl/toggl_api_docs/blob/master/chapters/workspaces.md#get-workspace-projects)
+* [Workspace Clients](https://github.com/toggl/toggl_api_docs/blob/master/chapters/workspaces.md#get-workspace-clients)
+* [Workspace Users](https://github.com/toggl/toggl_api_docs/blob/master/chapters/workspaces.md#get-workspace-users)
 * [Workspaces](https://github.com/toggl/toggl_api_docs/blob/master/chapters/workspaces.md)
 
 ## TODO for next iteration
 
 ## TODO (backlog)
 
-* [Users](https://github.com/toggl/toggl_api_docs/blob/master/chapters/users.md)
-* [Tasks](https://github.com/toggl/toggl_api_docs/blob/master/chapters/tasks.md)
-* [Project Users](https://github.com/toggl/toggl_api_docs/blob/master/chapters/project_users.md)
+* [Workspace Groups](https://github.com/toggl/toggl_api_docs/blob/master/chapters/workspaces.md#get-workspace-groups)
+* [Workspace Tasks](https://github.com/toggl/toggl_api_docs/blob/master/chapters/workspaces.md#get-workspace-tasks)
 
 ## Out of scope
 
