@@ -12,17 +12,14 @@ A dataplug to work with data from [Toggl](https://toggl.com) using its [API](htt
 
 ## Supported
 
-* [Detailed Reports](https://github.com/toggl/toggl_api_docs/blob/master/reports/detailed.md)
-* [Workspace Projects](https://github.com/toggl/toggl_api_docs/blob/master/chapters/workspaces.md#get-workspace-projects)
-* [Workspace Clients](https://github.com/toggl/toggl_api_docs/blob/master/chapters/workspaces.md#get-workspace-clients)
-* [Workspace Users](https://github.com/toggl/toggl_api_docs/blob/master/chapters/workspaces.md#get-workspace-users)
-* [Workspace Project Users](https://github.com/toggl/toggl_api_docs/blob/master/chapters/project_users.md#get-list-of-project-users-in-a-workspace)
-* [Workspace Groups](https://github.com/toggl/toggl_api_docs/blob/master/chapters/workspaces.md#get-workspace-groups)
-* [Workspaces](https://github.com/toggl/toggl_api_docs/blob/master/chapters/workspaces.md)
-
-## TODO (backlog)
-
-* [Workspace Tasks](https://github.com/toggl/toggl_api_docs/blob/master/chapters/workspaces.md#get-workspace-tasks)
+* [Detailed Reports](https://github.com/toggl/toggl_api_docs/blob/master/reports/detailed.md), as source
+* [Workspace Projects](https://github.com/toggl/toggl_api_docs/blob/master/chapters/workspaces.md#get-workspace-projects), as source
+* [Workspace Clients](https://github.com/toggl/toggl_api_docs/blob/master/chapters/workspaces.md#get-workspace-clients), as source
+* [Workspace Users](https://github.com/toggl/toggl_api_docs/blob/master/chapters/workspaces.md#get-workspace-users), as source
+* [Workspace Project Users](https://github.com/toggl/toggl_api_docs/blob/master/chapters/project_users.md#get-list-of-project-users-in-a-workspace), as source
+* [Workspace Groups](https://github.com/toggl/toggl_api_docs/blob/master/chapters/workspaces.md#get-workspace-groups), as source
+* [Workspace Tasks](https://github.com/toggl/toggl_api_docs/blob/master/chapters/workspaces.md#get-workspace-tasks), as source
+* [Workspaces](https://github.com/toggl/toggl_api_docs/blob/master/chapters/workspaces.md), as source
 
 ## Out of scope
 
