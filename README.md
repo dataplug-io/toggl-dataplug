@@ -16,6 +16,7 @@ A dataplug to work with data from [Toggl](https://toggl.com) using its [API](htt
 * [Workspace Projects](https://github.com/toggl/toggl_api_docs/blob/master/chapters/workspaces.md#get-workspace-projects)
 * [Workspace Clients](https://github.com/toggl/toggl_api_docs/blob/master/chapters/workspaces.md#get-workspace-clients)
 * [Workspace Users](https://github.com/toggl/toggl_api_docs/blob/master/chapters/workspaces.md#get-workspace-users)
+* [Workspace Project Users](https://github.com/toggl/toggl_api_docs/blob/master/chapters/project_users.md#get-list-of-project-users-in-a-workspace)
 * [Workspaces](https://github.com/toggl/toggl_api_docs/blob/master/chapters/workspaces.md)
 
 ## TODO for next iteration
