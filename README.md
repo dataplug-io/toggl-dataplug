@@ -25,4 +25,5 @@ A dataplug to work with data from [Toggl](https://toggl.com) using its [API](htt
 
 * [Summary Reports](https://github.com/toggl/toggl_api_docs/blob/master/reports/summary.md)
 * [Weekly Reports](https://github.com/toggl/toggl_api_docs/blob/master/reports/weekly.md)
+* [Time Entries](https://github.com/toggl/toggl_api_docs/blob/master/chapters/time_entries.md#get-time-entries-started-in-a-specific-time-range)
 * [Authentication using username/password](https://github.com/toggl/toggl_api_docs/blob/master/chapters/authentication.md#http-basic-auth-with-e-mail-and-password)
